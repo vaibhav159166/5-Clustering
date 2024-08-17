@@ -11,15 +11,6 @@ optimum number of clusters. Draw the inferences from the clusters
 obtained. Refer to EastWestAirlines.xlsx dataset.
 """
 
-"""
-Business Objective 
-Minimize : Costs- Identify and implement strategies to minimize the operational costs.
-           Customer Churn: Minimize the number of customers leaving the frequent flyer program.
-Maximaze : Offers on all product and Customer Engagement.
-
-Business constraints : Customer Satisfaction 
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
