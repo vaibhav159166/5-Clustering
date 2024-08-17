@@ -12,13 +12,6 @@ Assignment : EastWestAirlines.xlsx
 clusters. Draw the inferences from the clusters obtained. 
 Refer to EastWestAirlines.xlsx dataset.
 """
-"""
-Business Objective 
-Minimize : charges or cost, Customer Churn and Fraud.
-Maximaze : Offers, Customer Engagement, Market Share.
-
-Business constraints : Customer Satisfaction 
-"""
 
 import pandas as pd
 import matplotlib.pyplot as plt
